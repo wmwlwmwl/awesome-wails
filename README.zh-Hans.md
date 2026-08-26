@@ -74,6 +74,7 @@
 - [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - 使用 Go 和 Wails 重构的跨平台科幻风格终端模拟器。具有实时系统监控、触摸屏支持和未来主义主题。软件大小从 Electron 的大体积减少到仅 41.9MB。
 - [Restmate](https://github.com/aunjaffery/restmate) - 一款现代轻量的跨平台 REST API 客户端，旨在帮助开发者更快、更便捷地进行接口测试。
 - [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器。
+- [轻阅 Markdown](https://github.com/liuhang798/quillite-markdown) - 阅读优先的跨平台 Markdown 编辑器，支持 Windows、macOS 和 Linux，提供实时分栏预览、可视化表格与 Mermaid 图表、KaTeX 公式及文档导出。
 - [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件。
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片。
 - [Modal File Manager](https://github.com/raguay/ModalFileManager) - 一个 vim 风格的文件管理器，支持扩展和主题。
