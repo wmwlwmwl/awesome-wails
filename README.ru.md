@@ -141,6 +141,7 @@
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Креативный и стильный менеджер буфера обмена для Windows, созданный на Wails. Автоматически сохраняет всё, что вы копируете, с красивым бумажным интерфейсом и мощными функциями. Автор: [@d3uceY](https://github.com/d3uceY).
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - Инструментарий для перехвата HTTP-трафика и анализа безопасности, представляющий собой базовую open-source альтернативу Burp Suite.
 - [MicroFIX](https://github.com/Infinage/microfix) - Современный, легковесный инструмент для тестирования протокола FIX, написанный на Go.
+- [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH-рабочее пространство для разработчиков: SFTP и Ops Agent в одном клиенте.
 
 ### С закрытым исходным кодом
 

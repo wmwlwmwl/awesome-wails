@@ -150,6 +150,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
 - [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
+- [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 開発者向けのAI SSHワークスペース。SFTPとOps Agentを1つのクライアントに統合。
 
 ## チュートリアル
 

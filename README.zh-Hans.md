@@ -143,6 +143,7 @@
   - [Clipcat](https://github.com/d3uceY/Clipcat) – 一款由 Wails 构建的创意且时尚的 Windows 剪贴板管理器。自动记录你复制的所有内容，拥有美观的纸张风格界面和强大功能。作者: [@d3uceY](https://github.com/d3uceY)
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - 款 HTTP 流量拦截与安全分析工具包，是 Burp Suite 的开源核心替代方案。
 - [MicroFIX](https://github.com/Infinage/microfix) - 一款使用 Go 编写的现代轻量级 FIX 协议测试工具。
+- [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 面向开发者的 AI SSH 工作区，集 SFTP、运维 Agent 于一体的客户端。
 
 ### 闭源
 
