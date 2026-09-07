@@ -139,6 +139,8 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [cattail](https://github.com/nerdyslacker/cattail) - Windows および Linux 向けの非公式 Tailscale / Headscale クライアント。
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – [Ya CLI](https://github.com/d3uceY/Ya-CLI) のコマンドライン用ショートカットやエイリアスを管理するためのモダンなデスクトップアプリケーション。作成者: [@d3uceY](https://github.com/d3uceY)
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Wailsで作られた、Windows用のクリエイティブでスタイリッシュなクリップボードマネージャー。コピーした内容を自動で記録し、美しい紙風UIと多彩な機能を備えています。作成者: [@d3uceY](https://github.com/d3uceY)
+- [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
+- [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
 
 ### クローズド ソース
 
@@ -148,8 +150,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - いくつかのユニークな機能を備えた匿名・マルチプラットフォームのチャットアプリ（[Webapp](https://mchat-web-client.vercel.app/#/home)）。
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
-- [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
-- [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
+- [Redis Viewer](https://redisviewer.com) - 大規模キー空間の閲覧、Javaシリアライズ値のデコード、SlowLog / BigKey / HotKey などのローカル性能分析に対応した、無料のクロスプラットフォーム Redis デスクトップクライアント。
 
 ## チュートリアル
 

@@ -152,6 +152,7 @@
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - 匿名且跨平台的聊天应用，包含一些独特功能（[Webapp](https://mchat-web-client.vercel.app/#/home)）。
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
 - [DBNova](https://dbnova.ruiransoft.com/) - 开发者更友好的 SQL / NoSQL 数据库工具，内置 TS 查询构建器。
+- [Redis Viewer](https://redisviewer.com) - 免费跨平台 Redis 桌面客户端，支持大 Key 空间浏览、Java 序列化值解码，以及本地性能排查（SlowLog、BigKey、HotKey）。
 
 ## 教程
 
