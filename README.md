@@ -77,6 +77,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - A cross-platform, customizable science fiction terminal emulator rebuilt with Go and Wails. Features real-time system monitoring, touchscreen support, and futuristic theming. Reduced from Electron's large footprint to just 41.9MB.
 - [Restmate](https://github.com/aunjaffery/restmate) - Restmate is a modern lightweight cross-platform Rest API Client, designed to simplify and expedite the testing process for developers.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
+- [Quillite Markdown](https://github.com/liuhang798/quillite-markdown) - A reading-first Markdown editor for Windows, macOS, and Linux, with live split-view editing, visual tables and Mermaid diagrams, KaTeX math, and document export.
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
 - [Modal File Manager](https://github.com/raguay/ModalFileManager) - A vim styled file manager that is extensable and themeable.
