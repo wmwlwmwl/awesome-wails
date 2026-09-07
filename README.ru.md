@@ -150,6 +150,7 @@
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - Анонимный мультиплатформенный чат с некоторыми уникальными возможностями ([Webapp](https://mchat-web-client.vercel.app/#/home)).
 - [Tuna Desktop](https://tuna.am/blog/tuna-desktop-first/) - Приложение для создания HTTP/TCP туннелей для доступа из интернета к localhost.
 - [DBNova](https://dbnova.ruiransoft.com/) - Клиент баз данных для разработчиков (SQL/NoSQL) со встроенным TypeScript-конструктором запросов.
+- [Redis Viewer](https://redisviewer.com) - Бесплатный десктопный клиент Redis для просмотра больших объёмов данных, декодирования Java-сериализации и локального анализа производительности.
 
 ## Учебные материалы
 
