@@ -130,6 +130,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [WailBrew](https://github.com/wickenico/WailBrew) - macOS向けのミニマルなHomebrew GUI。
 - [Yaimg](https://github.com/asktiny/yaimg) - 複数の主要画像形式に対応した、簡潔で効率的なデスクトップ画像圧縮ソフト。
 - [HurlStudio](https://github.com/the-sumeet/hurlstudio) - [Hurl](https://hurl.dev/) のGUI。
+- [Kite Desktop](https://github.com/eryajf/kite-desktop) - Wails v3 で構築された Kubernetes マルチクラスター管理用デスクトップアプリ。
 - [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - クロスプラットフォームのツリーマップ型ファイルシステム可視化ツール。
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - 開発者向けの優雅なテキストスニペット記録ツール
 - [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
