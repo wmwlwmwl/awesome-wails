@@ -67,6 +67,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [MQ Studio](https://github.com/amigoer/mq-studio) - A local-first desktop client for message queues. One pluggable driver model across RocketMQ, RabbitMQ and Kafka, with topics, consumer groups, messages and cluster health in the same pages. No web console to deploy.
 - [Linkit](https://github.com/blue-idea/linkit) - Smart knowledge curation desktop app with AI summarization, semantic search, and cloud sync.
 - [uniTerm](https://github.com/ys-ll/uniterm) - A terminal software powered by an autonomous AI Agent, with full remote access support: SSH/Telnet/Mosh, SFTP/FTP, RDP/VNC/SPICE, database, SSH tunnel, and server monitor.
+- [Pelton](https://pelton.app) - *FOSS Email Client* with rich customizability and a focus on privacy. Built with Go, Svelte and ofc Wails.
 - [Klustr](https://github.com/SametKUM/klustr) - A fast, lightweight Kubernetes desktop client. Multi-cluster aggregation, live informer-driven UI, and built-in Helm, Argo CD, Flux CD and Gateway API support. Nothing is installed in the cluster.
 - [solo](https://github.com/raml-dev/solo) - The lightweight, fast, open-source API client for modern development.
 - [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
