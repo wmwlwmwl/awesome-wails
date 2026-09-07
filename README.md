@@ -158,7 +158,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 - [DBNova](https://dbnova.ruiransoft.com/) - A developer-friendly database client supporting both SQL and NoSQL, featuring a built-in TypeScript query builder.
-- [Redis Viewer](https://redisviewer.com) - Free cross-platform Redis desktop client for browsing large keyspaces, decoding Java serialized values, and local bottleneck analysis (SlowLog, BigKey, HotKey).
+- [Redis Viewer](https://redisviewer.com) - Free Redis desktop client for browsing large datasets, viewing Java serialized values, and local performance analysis.
 - [Kira](https://kira.thiennguyen.dev/) - A native macOS desktop client for AWS that also ships with a PostgreSQL/MySQL SQL client.
 - [TarkovMapTracker](https://github.com/M4elstr0m/TarkovMapTracker) - A desktop application to watch your live in-game location on maps from Escape From Tarkov. Built using Go, Wails v3 and React!
 

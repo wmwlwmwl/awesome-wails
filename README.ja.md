@@ -150,7 +150,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - いくつかのユニークな機能を備えた匿名・マルチプラットフォームのチャットアプリ（[Webapp](https://mchat-web-client.vercel.app/#/home)）。
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
-- [Redis Viewer](https://redisviewer.com) - 大規模キー空間の閲覧、Javaシリアライズ値のデコード、SlowLog / BigKey / HotKey などのローカル性能分析に対応した、無料のクロスプラットフォーム Redis デスクトップクライアント。
+- [Redis Viewer](https://redisviewer.com) - 無料の Redis デスクトップクライアント。大規模データの閲覧、Java シリアライズ値のデコード表示、ローカル性能分析に対応。
 
 ## チュートリアル
 
