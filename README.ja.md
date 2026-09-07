@@ -150,6 +150,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
 - [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
+- [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
 
 ## チュートリアル
 

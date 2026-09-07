@@ -149,6 +149,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [MicroFIX](https://github.com/Infinage/microfix) - A modern, lightweight FIX protocol testing tool written in Go.
 - [condui](https://github.com/mgueregath/condui) - A cross-platform desktop workspace for remote infrastructure: SSH terminal, SFTP, tunnels, Docker container management, database exploration over SSH, and VirtualBox controls in one app.
 - [Mercury](https://github.com/striker561/Mercury) - LAN clipboard and file sharing with AES-256-GCM encryption, zero-config mDNS discovery, no cloud or accounts.
+- [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 
 ### Closed Source
 
