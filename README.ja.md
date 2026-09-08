@@ -147,6 +147,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
 - [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 開発者向けのAI SSHワークスペース。SFTPとOps Agentを1つのクライアントに統合。
+- [lemontea](https://github.com/MikeLINGxZ/lemontea) - Wails v3で構築されたクロスプラットフォームAIデスクトップクライアント。
 
 ### クローズド ソース
 

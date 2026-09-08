@@ -147,6 +147,7 @@
 - [MicroFIX](https://github.com/Infinage/microfix) - Современный, легковесный инструмент для тестирования протокола FIX, написанный на Go.
 - [Clustta](https://github.com/eaxum/clustta-client) - Программное обеспечение с открытым исходным кодом для управления ассетами и контроля версий в сфере искусства, игр, визуальных эффектов и анимации.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH-рабочее пространство для разработчиков: SFTP и Ops Agent в одном клиенте.
+- [lemontea](https://github.com/MikeLINGxZ/lemontea) - Кроссплатформенный AI десктопный клиент, созданный на Wails v3.
 
 ### С закрытым исходным кодом
 

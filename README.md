@@ -159,6 +159,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [SnmpLens](https://github.com/Wasabules/SnmpLens) - A cross-platform SNMP MIB browser, trap receiver and alert router for Windows, macOS and Linux, with a MIB editor, OID monitoring and alerting to syslog, webhook or email.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
+- [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
 
 ### Closed Source
 
