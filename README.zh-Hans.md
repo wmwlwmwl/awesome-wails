@@ -147,6 +147,7 @@
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - 款 HTTP 流量拦截与安全分析工具包，是 Burp Suite 的开源核心替代方案。
 - [MicroFIX](https://github.com/Infinage/microfix) - 一款使用 Go 编写的现代轻量级 FIX 协议测试工具。
 - [Clustta](https://github.com/eaxum/clustta-client) - 面向艺术、游戏、视觉特效和动画领域的开源资产管理与版本控制软件。
+- [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 面向开发者的 AI SSH 工作区，集 SFTP、运维 Agent 于一体的客户端。
 
 ### 闭源
 
