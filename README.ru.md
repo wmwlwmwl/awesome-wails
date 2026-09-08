@@ -142,6 +142,7 @@
 - [cattail](https://github.com/nerdyslacker/cattail) - Неофициальный клиент Tailscale/Headscale для Windows и Linux.
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – Современное настольное приложение для управления ярлыками командной строки и алиасами для [Ya CLI](https://github.com/d3uceY/Ya-CLI). Автор: [@d3uceY](https://github.com/d3uceY).
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Креативный и стильный менеджер буфера обмена для Windows, созданный на Wails. Автоматически сохраняет всё, что вы копируете, с красивым бумажным интерфейсом и мощными функциями. Автор: [@d3uceY](https://github.com/d3uceY).
+  - [Cokpyt](https://github.com/d3uceY/Cokpyt) – Графический интерфейс для pip с прямым доступом к PyPI. Потому что жизнь слишком коротка для терминала. [[Документация](https://d3ucey.github.io/Cokpyt/)] Автор: [@d3uceY](https://github.com/d3uceY).
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - Инструментарий для перехвата HTTP-трафика и анализа безопасности, представляющий собой базовую open-source альтернативу Burp Suite.
 - [MicroFIX](https://github.com/Infinage/microfix) - Современный, легковесный инструмент для тестирования протокола FIX, написанный на Go.
 - [Clustta](https://github.com/eaxum/clustta-client) - Программное обеспечение с открытым исходным кодом для управления ассетами и контроля версий в сфере искусства, игр, визуальных эффектов и анимации.
