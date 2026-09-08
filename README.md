@@ -155,6 +155,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [condui](https://github.com/mgueregath/condui) - A cross-platform desktop workspace for remote infrastructure: SSH terminal, SFTP, tunnels, Docker container management, database exploration over SSH, and VirtualBox controls in one app.
 - [Mercury](https://github.com/striker561/Mercury) - LAN clipboard and file sharing with AES-256-GCM encryption, zero-config mDNS discovery, no cloud or accounts.
 - [SnmpLens](https://github.com/Wasabules/SnmpLens) - A cross-platform SNMP MIB browser, trap receiver and alert router for Windows, macOS and Linux, with a MIB editor, OID monitoring and alerting to syslog, webhook or email.
+- [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 
 ### Closed Source
 

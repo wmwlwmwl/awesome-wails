@@ -143,6 +143,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Wailsで作られた、Windows用のクリエイティブでスタイリッシュなクリップボードマネージャー。コピーした内容を自動で記録し、美しい紙風UIと多彩な機能を備えています。作成者: [@d3uceY](https://github.com/d3uceY)
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
 - [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
+- [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
 
 ### クローズド ソース
 
